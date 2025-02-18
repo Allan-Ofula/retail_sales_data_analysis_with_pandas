@@ -12,6 +12,7 @@ This project involves analyzing a retail sales dataset using Python and Pandas t
 - Utilize data visualization to present findings effectively
 
 **Dataset Description**
+
 The dataset contains the following columns:
 - Store ID – Unique identifier for each store
 - Product ID – Unique identifier for each product
@@ -63,4 +64,5 @@ The dataset contains the following columns:
 - Marketing Spend Allocation: Certain stores showed low ROI on marketing, suggesting a need for better ad targeting.
 
 **Conclusion**
+
 This project provides a comprehensive data-driven approach to understanding and improving retail sales performance. By leveraging Pandas and visualization tools, we extracted valuable insights that can inform strategic business decisions.
