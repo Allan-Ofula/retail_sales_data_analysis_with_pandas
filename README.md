@@ -1,6 +1,7 @@
 # Retail Sales Data Analysis with Pandas
 
 **Project Overview**
+
 This project involves analyzing a retail sales dataset using Python and Pandas to uncover key business insights. The dataset consists of 30,000 records with various features such as store locations, product categories, sales revenue, discounts, and marketing spend. The primary goal is to derive actionable insights that can help optimize sales strategies, improve revenue, and understand sales trends over time.
 
 **Objectives**
